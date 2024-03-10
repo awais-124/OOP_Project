@@ -1,0 +1,32 @@
+2|Ibrahim|Manager|24|25|12|1200
+3|Awais|Assistant Manager|24|25|12|1200
+5|Hashir|BusinessMan|24|25|12|1200
+6|Tayyab|Qari Sahab|24|25|12|1200
+7|Rohail|App Developer|24|25|12|1200
+8|Hamza|Accountant|24|25|193|1200
+9|Khurram|Operator|24|25|12|1200
+10|Shariq|Sales Representative|24|25|12|1200
+12|Rohail|Manager|25|5|12|4500
+13|Muhammad Ali|No_Destiny|100|80|1|1234
+2|Ibrahim|Manager|24|25|12|1200
+3|Awais|Assistant Manager|24|25|12|1200
+5|Hashir|BusinessMan|24|25|12|1200
+6|Tayyab|Qari Sahab|24|25|12|1200
+7|Rohail|App Developer|24|25|12|1200
+8|Hamza|Accountant|24|25|193|1200
+9|Khurram|Operator|24|25|12|1200
+10|Shariq|Sales Representative|24|25|12|1200
+12|Rohail|Manager|25|5|12|4500
+13|Muhammad Ali|No_Destiny|100|80|1|1234
+14|asda|qer|54|34|14|0
+creating a repository
+git init
+git remote add origin https://github.com/awais-124/OOP_Project.git
+git add .
+git commit -m "first commit"
+git push -u origin main
+
+git checkout -b FEAT-AUTH
+git add .
+git commit -m "asdhgwqSDGB"
+git push -u origin FEAT-asgh
